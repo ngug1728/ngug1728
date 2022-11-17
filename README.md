@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ngug1728
 - 👀 I’m interested in functions, kernels and prototypes
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on neural nets, training set
 - 📫 How to reach me humblesys09gmail.com
 
