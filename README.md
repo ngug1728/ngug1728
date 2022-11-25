@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ngug1728
-- 👀 I’m interested in prototypes, functions and kernels  
+- 👀 I’m interested in prototypes, functions, kernels, sub sets  
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on neural nets, training set, robotics and mechatronics
 - 📫 How to reach me humblesys09gmail.com
